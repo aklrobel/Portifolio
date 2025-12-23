@@ -500,7 +500,7 @@ const projects = [
     tech: ['React', 'Node.js', 'Express', 'MongoDB'],
     image: '/images/art_store.png',
     gradient: 'from-gruvbox-red/20 via-gruvbox-orange/20 to-gruvbox-yellow/20',
-    github: null,
+    github: 'https://github.com/RobelAK/art-store',
     demo: 'https://thedigitalartstore.netlify.app',
     isPrivate: false
   },
